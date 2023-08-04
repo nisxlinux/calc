@@ -4,7 +4,7 @@ Repositori ini berisi kode sumber untuk sebuah kalkulator sederhana yang dibangu
 
 ## Cara Penggunaan
 
-1. Siapkan sebat sama kopi ☕
+1. Siapkan sebat ma kopi dulu ngab biar ga ngantuk ☕ ( optional )
 2. lu paham command linux ( optional )
 3. install node js ngab versi berapa ae terserah ( wajib )
 4. cloning repo gw ngab git clone https://github.com/nisxlinux/calc.git
